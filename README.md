@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/eokdev" target="blank"><img src="https://img.shields.io/twitter/follow/eokdev?logo=twitter&style=for-the-badge" alt="eokdev" /></a> </p>
 
-- 🔭 I’m currently working on **Chat App**
+- 🔭 I’m currently working on **A MOBILE APPLICATION**
 
 - 🌱 I’m currently learning **Flutter**
 
