@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on **A MOBILE APPLICATION**
 
-- 🌱 I’m currently learning **Flutter**
-
 - 💬 Ask me about **Flutter, firebase, Dart**
 
 - 📫 How to reach me **eokdeveloper@gmail.com**
