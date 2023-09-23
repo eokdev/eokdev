@@ -1,6 +1,6 @@
 [![MasterHead](https://miro.medium.com/max/1400/0*vowtRZE_wvyVA7CB)](https://eokdev.io)
 <h1 align="center">Hi 👋, I'm Olorunshola Emmanuel</h1>
-<h3 align="center">A Mobile App Developer</h3>
+<h3 align="center">Mobile Engineer</h3>
 
 <p align="center"> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="eokdev" /> </p>
 
