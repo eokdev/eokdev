@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00ADD8&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Emmanuel+Olorunshola;Mobile+Engineer+%7C+Flutter+Developer;Building+Impactful+Digital+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00ADD8&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Emmanuel+Olorunshola;Mobile+Engineer+%7C+Flutter+%26+React+Native;Building+Impactful+Digital+Solutions" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🚀 Mobile Engineer | Flutter Specialist | Cross-Platform Developer</h3>
+<h3 align="center">🚀 Mobile Engineer | Flutter & React Native Developer | Cross-Platform Specialist</h3>
 
 <p align="center">
   <a href="https://twitter.com/eokdev" target="_blank">
@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate **Mobile Application Developer** specializing in Flutter. I love building cross-platform applications that make a real impact. With a focus on creating seamless user experiences and solving real-world problems through code, I'm dedicated to crafting high-quality mobile solutions that users love.
+I'm a passionate **Mobile Application Developer** specializing in **Flutter** and **React Native**. I love building cross-platform applications that make a real impact. With a focus on creating seamless user experiences and solving real-world problems through code, I'm dedicated to crafting high-quality mobile solutions that users love.
 
 ---
 
@@ -25,10 +25,14 @@ I'm a passionate **Mobile Application Developer** specializing in Flutter. I lov
 
 #### Languages
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 #### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
