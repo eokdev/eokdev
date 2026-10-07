@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00ADD8&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Emmanuel+Olorunshola;Mobile+Engineer+%7C+Flutter+%26+React+Native;Building+Impactful+Digital+Solutions" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🚀 Mobile Engineer | Flutter & React Native Developer | Cross-Platform Specialist</h3>
+<h3 align="center">🚀 Mobile Engineer | Cross-Platform Specialist</h3>
 
 <p align="center">
   <a href="https://twitter.com/eokdev" target="_blank">
